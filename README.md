@@ -4,7 +4,7 @@ App description:
 This app is to demo Custom Gestures.
 
 ## Steps:
-1. From the Custom Gesture App add some gestures of your choice (draw them)
+1. From the Gesture Builder App add some gestures of your choice (draw them)
 2. The gestures will then be stored in pack.GestureApp > files > gesture.txt (Track down the location in C)
 3. Copy this file to raw directory in res (to be made)
 4. The rest of the Custom Gesture code followed.
